@@ -1,0 +1,82 @@
+@charset "utf-8";
+.estilos {
+	font-family: Verdana, Geneva, sans-serif;
+}
+ .normal {
+	font-family: "Century Gothic", Gulim;
+	font-size: 18px;
+	color: #FFF;
+	font-weight: bold;
+}
+.h1 {
+	font-family: candara;
+	font-size: 36px;
+	color: #00FFCC;
+}
+
+#fondo
+	{
+	background: #44E1EE;
+	width: auto;
+	height: auto;
+	margin: 15px 15px;
+	border: dashed;
+	border-color: #00F;
+	opacity: 0.6;
+	height: auto;
+	}
+div.fondo1
+{
+	width: auto;
+	height: auto;
+	background:url(imagenes/bvc.jpg);
+	border: 2px solid black;
+}
+.fondo2 {
+	background-image:url(imagenes/vsa.jpg);
+	width:auto;
+	height:auto;
+}
+.normal2 {
+	font-family: "Century Gothic", Gulim;
+	font-size: 16px;
+	color: #2626EA;
+	font-style: italic;
+	text-align: justify;
+	vertical-align: middle;
+	line-height: normal;
+	font-weight: lighter;
+}
+.pie {
+	font-style: italic;
+	color: #FFF;
+}
+.normal3 {
+	color: #000;
+	font-weight: normal;
+	font-family: candara;
+	text-align: justify;
+	font-size: 16px;
+}
+.normal4 {
+	font-family: "Century Gothic", Gulim;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-align: justify;
+}
+.norm {
+	font-family: candara;
+	color: #00F;
+	font-style: italic;
+}
+.h4 {
+	font-family: candara;
+	font-weight: bold;
+	color: #000;
+	text-align: center;
+	font-size: 24px;
+}
+.tit2 {
+	color: #000;
+}
